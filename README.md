@@ -5,8 +5,10 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
 ## Table of Contents
 1. [Test Projects](#test-projects)
    - [Inpost.es (Spanish Website)](#inpostes-spanish-inpost-website)
-   - [Natura.pl (Polish Online Store)](#natura-pl-natura-cosmetics-store-website)
-   - [Scout-panel (Test Application Developed by a Friend)](#scout-panel-test-application-developed-by-a-friend)
+   - [glucocontro.online (App created by a friend)](#glucocontro-online-app-created-by-a-friend)
+   - [Scout-panel (Test Application Developed by a Friend)](#scout-panel-test-app-created-by-a-friend)
+   - [Basket Buddy (Mobile app for shopping list)](#basket-buddy-mobile-app-for-shopping-list)
+   - [skleptest.pl (Website filled with bugs))](#skleptest-pl-website-filled-with-bugs)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Contact](#contact)
