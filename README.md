@@ -4,8 +4,8 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
 
 ## Table of Contents
 1. [Test Projects](#test-projects)
-   - [Inpost.es (Spanish Website)](#inpostes-spanish-website)
-   - [Natura.pl (Polish Online Store)](#natura-pl-polish-online-store)
+   - [Inpost.es (Spanish Website)](#inpostes-spanish-inpost-website)
+   - [Natura.pl (Polish Online Store)](#natura-pl-natura-cosmetics-store-website)
    - [Scout-panel (Test Application Developed by a Friend)](#scout-panel-test-application-developed-by-a-friend)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
@@ -19,16 +19,26 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
    - **Tools**: Test case documentation in Google Docs, bug reporting in JIRA.
    - **Website link**: [inpost.es](https://www.inpost.es)
 
-### 2. **Natura.pl (Natura cosmetics store website)**
-   - **Description**: I conducted functional tests on the e-commerce website of the Natura cosmetics store, focusing on the purchasing process, product filtering, login, and order submission.
-   - **Types of tests**: Functional tests, Regression tests, Cross-browser compatibility tests.
-   - **Tools**: Test documentation in Excel, bug management in JIRA.
-   - **Website link**: [natura.pl](https://www.natura.pl)
+### 2. **glucocontro.online (App created by a friend)**
+   - **Description**: 
+   - **Types of tests**: 
+   - **Tools**: 
+   - **Website link**: 
 
 ### 3. **Scout-panel (Test app created by a friend)**
-   - **Description**: I tested the Scout-panel application, which was developed by a friend. The app allows user data management and simple administrative panel operations. I focused on functional tests, usability testing, and database interactions.
-   - **Types of tests**: Functional tests, UI tests, Security tests.
-   - **Tools**: Google Sheets for bug reporting, manual testing using test case documentation.
+   - **Description**: 
+   - **Types of tests**: 
+   - **Tools**:
+
+### 4. **Basket Buddy (Mobile app for shopping list)**
+   - **Description**: 
+   - **Types of tests**: 
+   - **Tools**:
+
+### 5. **skleptest.pl (Website filled with bugs)**
+   - **Description**: 
+   - **Types of tests**: 
+   - **Tools**: 
 
 ## My Skills
 
