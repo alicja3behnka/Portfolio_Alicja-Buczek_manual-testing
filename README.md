@@ -4,11 +4,11 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
 
 ## Table of Contents
 1. [Test Projects](#test-projects)
-   - [Inpost.es (Spanish InPost website)](#inpostes-spanish-inpost-website)
-   - [glucocontro.online (App created by a friend)](#glucocontro-online-app-created-by-a-friend)
-   - [Scout-panel (Test Application Developed by a Friend)](#scout-panel-test-app-created-by-a-friend)
-   - [Basket Buddy (Mobile app for shopping list)](#basket-buddy-mobile-app-for-shopping-list)
-   - [skleptest.pl (Website filled with bugs))](#skleptest-pl-website-filled-with-bugs)
+   - [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
+   - [glucocontro.online (App created by a friend)](#2-glucocontroonline-app-created-by-a-friend)
+   - [Scout-panel (Test Application Developed by a Friend)](#3-scout-panel-test-app-created-by-a-friend)
+   - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
+   - [skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Contact](#contact)
