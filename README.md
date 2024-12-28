@@ -58,6 +58,9 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
 
 ## Contact
 
+# Blogs, content that interested me 
+1. About extension which helps tester with bug reporting medium.com/@karandhanwani20/forget-your-bug-reporting-problems-with-this-chrome-extension-33a5a773279b 
+
 If you'd like to get in touch with me, feel free to send an email to: [alicjabehnka@gmail.com].
 
 ---
