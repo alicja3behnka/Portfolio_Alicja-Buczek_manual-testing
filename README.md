@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! I am a manual tester who has just started my journey in this field. In this repository, you will find documentation regarding the applications I have tested, as well as my experience working with different web applications. Below, I present the projects I have tested as part of my efforts.
 
+With a strong foundation in recruitment, my transition to software testing is fortified by exceptional interpersonal skills, fostering effective communication within cross-functional teams. With a keen eye for detail and an analytical mindset, I excel in identifying and communicating potential software issues, contributing to the overall enhancement of testing processes and software quality. I can handle tasks that require organizational skills well, and I approach new challenges with openness and curiosity. 
+
 ## Table of Contents
 1. [Test Projects](#test-projects)
    - [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
@@ -58,10 +60,11 @@ Welcome to my portfolio! I am a manual tester who has just started my journey in
 
 ## Contact
 
-# Blogs, content that interested me 
+If you'd like to get in touch with me, feel free to send an email to: [alicjabehnka@gmail.com].
+
+## Blogs, content that interested me 
 1. About extension which helps tester with bug reporting medium.com/@karandhanwani20/forget-your-bug-reporting-problems-with-this-chrome-extension-33a5a773279b 
 
-If you'd like to get in touch with me, feel free to send an email to: [alicjabehnka@gmail.com].
 
 ---
 
