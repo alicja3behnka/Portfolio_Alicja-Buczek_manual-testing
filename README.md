@@ -12,6 +12,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
    - [skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
    - [Mereinda (Application to learn Spanish developed by my friend)] (#6-merienda.pl).
+   - Agile Agile cards; Surveys for Jira
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Contact](#contact)
