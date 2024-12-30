@@ -53,7 +53,7 @@ The document also includes observations about potential issues, such as interfac
 - **Description**: 
    - **Types of tests**: 
    - **Tools**: Google Docs & Sheets
- 
+ cross-browser testing
      
 ## My Skills
 
