@@ -7,13 +7,13 @@ With a strong foundation in recruitment, my transition to software testing is fo
 ## Table of Contents
 1. [Test Projects](#test-projects)
    - [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
-   - [glucocontro.online (Appication to monitor glucose)](#2-glucocontroonline-appication-to-monitor-glucose)
+   - [Glucocontro.online (Appication to monitor glucose)](#2-glucocontroonline-appication-to-monitor-glucose)
    - [Scouts-panel (Test Application Developed by a Friend)](#3-scouts-panel-test-app-created-by-a-friend)
    - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
-   - [skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
+   - [Skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
    - [Mereinda (Application to learn Spanish developed)](#6-merienda-application-to-learn-spanish-developed)
    - [Pet project developing during 7th edition of DareiT mentoring (Application for pet's owner)](#7-pet-project-developing-during-7th-edition-of-dareit-mentoring-application-for-pets-owner)
-   - Agile cards; Surveys for Jira
+   - [Agile cards; Surveys for Jira](#8-agile-cards-surveys-for-jira)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Contact](#contact)
@@ -104,9 +104,18 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 If you'd like to get in touch with me, feel free to send an email to: [alicjabehnka@gmail.com] or reach me via Linkedin [https://www.linkedin.com/in/alicja-buczek/]
 
 ## Blogs, content that interested me 
-1. About extension which helps tester with bug reporting https://wwww.medium.com/@karandhanwani20/forget-your-bug-reporting-problems-with-this-chrome-extension-33a5a773279b  [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
 
-
+- **About extension which helps tester with bug reporting** [https://wwww.medium.com/@karandhanwani20/forget-your-bug-reporting-problems-with-this-chrome-extension-33a5a773279b]
+- **About ChatGPT in a QA field** [https://daniel-delimata.medium.com/could-chatgpt-be-a-tester-1c41dab00c34]
+- **Blog & IG account Amelia Walter-Dzikowska** [https://www.instagram.com/qa.amelia/] & [https://amelia.qa]
+- **IG content Sylwia Szymańska** [https://www.instagram.com/testerka_oprogramowania/]
+- **IG content & newsletter Stefania Winkiel** [https://www.instagram.com/mentor_testowania_opr/]
+- **IG content Jolanta Klima** [https://www.instagram.com/uczetestowania/]
+- **IG content Ola Kunysz** [https://www.instagram.com/olaqnysz/]
+- **Podcast Kinga Witko i Daria Dobrzańska 'Tu się Testuje'** [https://open.spotify.com/show/75eyDizBIrd2QX0kSkkApJ]
+- **Newsletter Testowa Środa Bartosz Kita (Akademia QA)** [https://akademiaqa.pl]
+- **Newsletter created by Cezary Łysiak from FabrykaTestów** [https://fabrykatestow.pl]
+- **Learning courses created by Rafał Podraza** [https://www.udemy.com/user/rafal-podraza-3/?srsltid=AfmBOoqIVkSqm16-Qu41mIG6NSEcZ3IVKZ-j-UxTP8kTWKI0FekmOqPU]
 ---
 
 Thank you for visiting my portfolio!
