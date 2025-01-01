@@ -11,7 +11,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - [Scouts-panel (Test Application Developed by a Friend)](#3-scouts-panel-test-app-created-by-a-friend)
    - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
    - [skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
-   - [Mereinda (Application to learn Spanish developed by my friend)] (#6-merienda.pl).
+   - [Mereinda (Application to learn Spanish developed by my friend)](#6-merienda-application-to-learn-spanish-developed-by-my-friend)
    - Agile Agile cards; Surveys for Jira
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
@@ -24,17 +24,20 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - **Types of tests**: Functional tests, User Interface (UI) tests, User Experience (UX) tests.
    - **Tools**: Test case documentation in Google Docs.
    - **Website link**: [inpost.es](https://www.inpost.es)
+   - **Project link**: https://docs.google.com/document/d/1tpAgQMme91SQTyfhuGtFwxDOSAPjxGg3tLh3kuXCd_4/edit?usp=sharing 
 
 ### 2. **glucocontro.online (Appication to monitor glucose)**
    - **Description**: 
    - **Types of tests**: 
    - **Tools**: 
    - **Website link**: https://www.glucocontro.online
+   - **Project link**: https://docs.google.com/document/d/1PoPEJJtQgIxU6jCz3uCo-qunAQ0AW7ZqVCkw6PfQ05U/edit?usp=sharing
 
 ### 3. **Scouts-panel (Test app created by a friend)**
    - **Description**: 
    - **Types of tests**: 
    - **Tools**:
+   - **Project link**: https://docs.google.com/document/d/1N2Y4ajb68fjjnrV0U2s2Pbs0unIl9-dBhlcY7oliXQE/edit?usp=sharing
 
 ### 4. **Basket Buddy (Mobile app for shopping list)**
    - **Description**: The document concerns testing the functionalities of the "Shopping List" module in the "Basket Buddy" mobile application. It contains detailed test cases describing the action steps, expected results, and final outcomes for various scenarios, such as:
@@ -43,16 +46,19 @@ Adding products to the list, creating a username, removing products from the lis
 The document also includes observations about potential issues, such as interface problems in specific sections of the application (eg. problems with displaying the interface for some actions). All tests ended with the status "Passed", which means that the functions worked as required.
    - **Types of tests**: 
    - **Tools**: Google Docs & Sheets
+   - **Project link**: https://docs.google.com/document/d/1n_6-9SIoGgnrI1dOk2ZK7k7HmGFLAoi4hXZl1kui7Z0/edit?usp=sharing
 
 ### 5. **skleptest.pl (Website filled with bugs)**
    - **Description**: 
    - **Types of tests**: 
    - **Tools**: Google Docs & Sheets
+   - **Project link**: https://docs.google.com/document/d/1J3IcnyWk29VOJIv46kn7L4WxRsWUphPwk9svFr9K5hs/edit?usp=sharing
 
 ### 6. **Merienda (Application to learn Spanish developed by my friend)**
 - **Description**: 
    - **Types of tests**: 
    - **Tools**: Google Docs & Sheets
+   - **Project link**: https://docs.google.com/document/d/1N2CYlyk4mPULLNRMQu_fItJhGC-v16EnkAxoAtzWCJY/edit?usp=sharing
  cross-browser testing
      
 ## My Skills
