@@ -29,7 +29,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
 
 ### 2. **glucocontro.online (Appication to monitor glucose)**
    - **Description**: 
-   - **Types of tests**: functional, usability, accesability
+   - **Types of tests**: functional, usability, accessibility
    - **Tools**: 
    - **Website link**: https://www.glucocontro.online
    - **Project link**: https://docs.google.com/document/d/1PoPEJJtQgIxU6jCz3uCo-qunAQ0AW7ZqVCkw6PfQ05U/edit?usp=sharing
@@ -38,7 +38,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - **Description**: This document is a portfolio focused on testing the functionality, user interface, and user experience of the "Scouts-test.futbolkolektyw" web application. The application is designed for managing and comparing player statistics, including adding players, editing details, creating reports, and managing matches. The document presents detailed test cases simulating potential user actions and reporting bugs in the system.
 
 The tests identified a variety of issues, including improper validation of fields like height, weight, and phone numbers, as well as flaws in navigation and layout consistency. Functional testing was predominantly used, aiming to verify whether specific features worked correctly under predefined conditions. Usability testing was also implied, assessing user interface intuitiveness and interaction design. Each test includes descriptions, expected and actual outcomes, and the status of the issue. Additional observations include suggestions to improve performance, layout, and accessibility, as well as highlighting areas needing clearer workflows and better user guidance.
-   - **Types of tests**: functional, usability, accesability, cross-browser testing
+   - **Types of tests**: functional, usability, accessibility, cross-browser testing
    - **Tools**: Google Docs
    - **Project link**: https://docs.google.com/document/d/1N2Y4ajb68fjjnrV0U2s2Pbs0unIl9-dBhlcY7oliXQE/edit?usp=sharing
 
@@ -47,7 +47,7 @@ The tests identified a variety of issues, including improper validation of field
 Adding products to the list, creating a username, removing products from the list, changing product quantities, adding unit prices, sharing shopping lists, creating and deleting shopping lists, and changing the order of categories.
 
 The document also includes observations about potential issues, such as interface problems in specific sections of the application (eg. problems with displaying the interface for some actions). All tests ended with the status "Passed", which means that the functions worked as required.
-   - **Types of tests**: functional, usability, accesability
+   - **Types of tests**: functional, usability, accessibility
    - **Tools**: Google Docs
    - **Project link**: https://docs.google.com/document/d/1n_6-9SIoGgnrI1dOk2ZK7k7HmGFLAoi4hXZl1kui7Z0/edit?usp=sharing
 
@@ -57,7 +57,7 @@ The document also includes observations about potential issues, such as interfac
 The testing revealed significant functional and design flaws, such as unresponsive buttons, misaligned elements, inconsistent formatting, and improperly validated input fields. Suggestions for improvement address usability and interface consistency, such as centering elements, ensuring uniform image sizes, correcting alignment of currency symbols, and enhancing user-friendly features like displaying sale prices more intuitively.
 
 The types of tests conducted included functional testing to verify that specific features like adding to the cart or checking out work as expected, and usability testing to assess the website's layout, navigation, and overall user experience. Each issue is detailed with reproduction steps, expected versus actual results, severity, and priority, often accompanied by recommendations for improvement.
-   - **Types of tests**: functional, usability, accesability, cross-browser testing
+   - **Types of tests**: functional, usability, accessibility, cross-browser testing
    - **Tools**: Google Docs 
    - **Project link**: https://docs.google.com/document/d/1J3IcnyWk29VOJIv46kn7L4WxRsWUphPwk9svFr9K5hs/edit?usp=sharing
 
@@ -87,7 +87,7 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
      
 ## My Skills
 
-- **Manual Testing**: Experience in performing functional, regression, acceptance, accesability, usability testing, cross-browser.
+- **Manual Testing**: Experience in performing functional, regression, acceptance, accessibility, usability testing, cross-browser.
 - **Test Documentation**: Creating test cases, bug reporting, test plans.
 - **Bug Management**: JIRA, Trello, Google Docs & Sheets
 - **UI/UX Testing**: Evaluating user interfaces, assessing application usability.
