@@ -7,7 +7,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
 ## Table of Contents
 1. [Test Projects](#test-projects)
    - [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
-   - [glucocontro.online (Appication to monitor glucose)](#2-glucocontroonline-app-created-by-a-friend)
+   - [glucocontro.online (Appication to monitor glucose)](#2-glucocontroonline-appication-to-monitor-glucose)
    - [Scouts-panel (Test Application Developed by a Friend)](#3-scouts-panel-test-app-created-by-a-friend)
    - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
    - [skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
