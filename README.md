@@ -85,7 +85,7 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
    - **Project link**: IN PROCESS
 
  ### 8. **Challenge created by GOIT**
- - **Description**: I was participant of a challenge created by [GOIT company](https://goit.global/pl/)
+ - **Description**: I was participant of a challenge created by [programming school GOIT](https://goit.global/pl/)
  - **Project link**: https://drive.google.com/drive/folders/17qlso9mstZBRGyLNOi0GJy6o0UEnaaxW?usp=sharing
   
  ### 9. **Agile cards; Surveys for Jira**
