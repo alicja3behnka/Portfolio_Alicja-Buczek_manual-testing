@@ -13,10 +13,12 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - [Skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
    - [Mereinda (Application to learn Spanish developed)](#6-merienda-application-to-learn-spanish-developed)
    - [Pet project developing during 7th edition of DareiT mentoring (Application for pet's owner)](#7-pet-project-developing-during-7th-edition-of-dareit-mentoring-application-for-pets-owner)
+   - [Challenge created by GOIT](8-challenge-created-by-goit)
    - [Agile cards; Surveys for Jira](#8-agile-cards-surveys-for-jira)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
-4. [Contact](#contact)
+4. [Certificates](#certificates)
+5. [Contact](#contact)
 
 ## Test Projects
 
@@ -81,8 +83,12 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
  - **Types of tests**: IN PROCESS 
    - **Tools**: Google Docs
    - **Project link**: IN PROCESS
+
+ ### 8. **Challenge created by GOIT**
+ - **Description**: I was participant of a challenge created by [GOIT company](https://goit.global/pl/)
+ - **Project link**: https://drive.google.com/drive/folders/17qlso9mstZBRGyLNOi0GJy6o0UEnaaxW?usp=sharing
   
- ### 8. **Agile cards; Surveys for Jira**
+ ### 9. **Agile cards; Surveys for Jira**
  Both applications are plugins for Jira. I have familiarized myself with the applications, finding bugs that occur.
      
 ## My Skills
@@ -98,6 +104,10 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 - **Bug Reporting Tools**: JIRA, Trello
 - **Test Documentation Tools**: Google Docs, Google Sheets
 - **Other**: GitHub, Slack, Jira
+
+## Certificates
+
+- [**SQL Basics Certificate by Polska Fundacja Przedsiębiorczości**](https://drive.google.com/file/d/1qH0G_SurVZ-ZcIXotq5NEcqlJrZIBTHF/view?usp=sharing)
 
 ## Contact
 
