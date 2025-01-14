@@ -109,6 +109,7 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 
 - [**SQL Basics Certificate by Polska Fundacja Przedsiębiorczości**](https://drive.google.com/file/d/1qH0G_SurVZ-ZcIXotq5NEcqlJrZIBTHF/view?usp=sharing)
 - [**HIGH5 Test Strengths Certificate**](https://drive.google.com/file/d/1b46PUyAIdZq2e_KuiWAwqC2n72yEDIv3/view?usp=sharing)
+- [**AI National Skills by Microsoft**](https://drive.google.com/file/d/184XUAh4Ms9oKoQnLroTxM5kROJDpfaQB/view?usp=sharing)
 
 ## Contact
 
