@@ -110,6 +110,14 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 - [**SQL Basics Certificate by Polska Fundacja Przedsiębiorczości**](https://drive.google.com/file/d/1qH0G_SurVZ-ZcIXotq5NEcqlJrZIBTHF/view?usp=sharing)
 - [**HIGH5 Test Strengths Certificate**](https://drive.google.com/file/d/1b46PUyAIdZq2e_KuiWAwqC2n72yEDIv3/view?usp=sharing)
 - [**AI National Skills by Microsoft**](https://drive.google.com/file/d/184XUAh4Ms9oKoQnLroTxM5kROJDpfaQB/view?usp=sharing)
+- [**Generative AI Certificate by Santander**](https://drive.google.com/file/d/1xSJ1uiakIbCbecG7fD9JUW3jRgbuwR-z/view?usp=sharing)
+- [**Effective Communication Certificate by Santander**](https://drive.google.com/file/d/11VqcFlz4L6FUiWtocBypulIjLeg8NYG-/view?usp=sharing)
+- [**Project Management & Agile Fundamentals Certificate by Santander**](https://drive.google.com/file/d/1sXHWz25IPBnDp1xDzdDFE5ecsP9iASb2/view?usp=sharing)
+- [**Strategic Thinking & Strategic Mindset Certificate by Santander**](https://drive.google.com/file/d/19XvvBqd0OGcg2VOTz3W-hLC2J7fiBmkh/view?usp=sharing)
+- [**Critical Thinking & Problem Solving Certificate by Santander**](https://drive.google.com/file/d/1o9WRVU3OhWL0gdi2ugPqWbK68UcQtAu0/view?usp=sharing)
+
+## Interesting things that have happened recently
+
 
 ## Contact
 
