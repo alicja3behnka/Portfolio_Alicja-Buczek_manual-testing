@@ -15,6 +15,7 @@ With a strong foundation in recruitment, my transition to software testing is fo
    - [Pet project developing during 7th edition of DareiT mentoring (Application for pet's owner)](#7-pet-project-developing-during-7th-edition-of-dareit-mentoring-application-for-pets-owner)
    - [Challenge created by GOIT](#8-challenge-created-by-goit)
    - [Agile cards; Surveys for Jira](#9-agile-cards-surveys-for-jira)
+   - [JAI Autocomplete with AI for Jira](#10-jai-autocomplete-with-ai-for-jira)
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Certificates](#certificates)
