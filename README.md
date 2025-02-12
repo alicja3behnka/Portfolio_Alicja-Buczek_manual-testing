@@ -90,6 +90,9 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
   
  ### 9. **Agile cards; Surveys for Jira**
  Both applications are plugins for Jira. I have familiarized myself with the applications, finding bugs that occur.
+
+ ### 10. **JAI Autocomplete with AI for Jira**
+ Testing API for Jira Server/DC plugin. 
      
 ## My Skills
 
