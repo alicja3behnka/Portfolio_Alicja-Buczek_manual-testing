@@ -64,7 +64,7 @@ The types of tests conducted included functional testing to verify that specific
    - **Tools**: Google Docs 
    - **Project link**: https://docs.google.com/document/d/1J3IcnyWk29VOJIv46kn7L4WxRsWUphPwk9svFr9K5hs/edit?usp=sharing
 
-### 6. **Merienda (Application to learn Spanish developed)**
+### 6. **Merienda (Application to learn Spanish)**
 - **Description**: I’ve recently been learning Spanish and exploring various language-learning apps to see which one offers the best results. That’s how I came across Merienda, an application designed specifically for Polish speakers to achieve conversational proficiency in Spanish.
 
 
