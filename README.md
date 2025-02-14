@@ -121,6 +121,16 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 - [**Critical Thinking & Problem Solving Certificate by Santander**](https://drive.google.com/file/d/1o9WRVU3OhWL0gdi2ugPqWbK68UcQtAu0/view?usp=sharing)
 
 ## Interesting things that have happened recently
+**Hello World** 
+Recently I had an opportunity to join "Umiejętności Jutra AI" powered by Google and SGH. I'm really glad to be a part of this remarkable community that want to develop and be up to date in the current circumstances! I hope knowledge from AI expert will help me get to know new tools and be aware of changes. // 14.02.25
+
+Today, 14.02.25, I've received reply from AIDEAS, that they approved my application and welcomed to their AI course. // 14.02.25
+
+While searching throught the Internet I found that Postman Academy gives an opportunity to learn more about Postmans' tool and after taking this course attendance will receive a certificate. This is awesome news! I'm already enrolled, so soon I'll gain new knowledge and refresh what I learned by now. // 14.02.25
+
+Today was a busy day. Apart from my regular work I had a chance to attent a Meet Partners event, created by DareIT. This event took about 6 hours. During this time partners' representants discribed subject eg. Parental Right, CV - how to right a good one, HR Interviews and technical Interviews - how to prepare yourself. Perspective of HR ppl is really valuable and Im grateful of such opportunity, being a part of Women's community that are going to be a part of IT world. Big thanks for all of you who was involved in DareIT initiative! // 13.02.25
+
+In January I promised myself that I'll gain more business knowledge and more business mindset. My friend share with me that in Santander Open Academy has a lot of courses that help ppl better understand skills in corporate world and also more about AI, and also about being Agile. I spent a lot of time learning, but finsihed few courses. My favourite is Generative AI, you have to try enrolled this course in SOA!  // 12.02.25
 
 
 ## Contact
