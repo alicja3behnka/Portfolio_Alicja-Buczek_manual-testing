@@ -121,7 +121,7 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
 - [**Critical Thinking & Problem Solving Certificate by Santander**](https://drive.google.com/file/d/1o9WRVU3OhWL0gdi2ugPqWbK68UcQtAu0/view?usp=sharing)
 
 ## Interesting things that have happened recently
-**Hello World** 
+**Hello World!** 
 Recently I had an opportunity to join "Umiejętności Jutra AI" powered by Google and SGH. I'm really glad to be a part of this remarkable community that want to develop and be up to date in the current circumstances! I hope knowledge from AI expert will help me get to know new tools and be aware of changes. // 14.02.25
 
 Today, 14.02.25, I've received reply from AIDEAS, that they approved my application and welcomed to their AI course. // 14.02.25
@@ -132,6 +132,10 @@ Today was a busy day. Apart from my regular work I had a chance to attent a Meet
 
 In January I promised myself that I'll gain more business knowledge and more business mindset. My friend share with me that in Santander Open Academy has a lot of courses that help ppl better understand skills in corporate world and also more about AI, and also about being Agile. I spent a lot of time learning, but finsihed few courses. My favourite is Generative AI, you have to try enrolled this course in SOA!  // 12.02.25
 
+
+Today, is a special day for me. As you already know I'm learning about HTML & CSS. In this year (yes, in 2025) I'll be automating tests, probably in JS. So, I did my first steps and make provisional Resume in HTML. Of course I have to edit it, use more proper code, but for me it's a milestone! Of course, it's really busy time for me, but I know to with point, place Im going to, so Im motivated in 10000000% to achived what I planned. Do you want to see my first code job??  // 28.01.25
+
+It's a big day! 31.10.2024, 09:27 - My application to DareIT mentoring is accepted!!! Im starting an awesome journey with my mentor who will help me to undesrtand more technical stuff! **IT World** Im coming very soon!!! Be prepare for ambitious, goal and ppl oreinted person whit an eye on detail!  // 2.11.24
 
 ## Contact
 
