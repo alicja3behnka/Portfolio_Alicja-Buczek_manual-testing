@@ -135,7 +135,9 @@ In January I promised myself that I'll gain more business knowledge and more bus
 
 Today, is a special day for me. As you already know I'm learning about HTML & CSS. In this year (yes, in 2025) I'll be automating tests, probably in JS. So, I did my first steps and make provisional Resume in HTML. Of course I have to edit it, use more proper code, but for me it's a milestone! Of course, it's really busy time for me, but I know to with point, place Im going to, so Im motivated in 10000000% to achived what I planned. Do you want to see my first code job??  // 28.01.25
 
-It's a big day! 31.10.2024, 09:27 - My application to DareIT mentoring is accepted!!! Im starting an awesome journey with my mentor who will help me to undesrtand more technical stuff! **IT World** Im coming very soon!!! Be prepare for ambitious, goal and ppl oreinted person whit an eye on detail!  // 2.11.24
+It's a big day! 31.10.2024, 09:27 - My application to DareIT mentoring is accepted!!! Im starting an awesome journey with my mentor who will help me to undesrtand more technical stuff! **IT World** Im coming very soon!!! Be prepare for ambitious, goal and ppl oreinted person whith an eye on detail!  // 2.11.24
+
+During Majówka days off I decided to prepare my portfolio. I checked in which applications and website many bugs occured. Stay tuned! I hope I'd finished before 7th edition od DareIT started! Fingers crossed!  /// 10.05.24
 
 ## Contact
 
