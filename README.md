@@ -8,11 +8,11 @@ With a strong foundation in recruitment, my transition to software testing is fo
 1. [Test Projects](#test-projects)
    - [Inpost.es (Spanish InPost website)](#1-inpostes-spanish-inpost-website)
    - [Glucocontro.online (Appication to monitor glucose)](#2-glucocontroonline-appication-to-monitor-glucose)
-   - [Scouts-panel (Test Application Developed by a Friend)](#3-scouts-panel-test-app-created-by-a-friend)
+   - [Scouts-panel (Test Application developed by a Friend)](#3-scouts-panel-test-app-created-by-a-friend)
    - [Basket Buddy (Mobile app for shopping list)](#4-basket-buddy-mobile-app-for-shopping-list)
    - [Skleptest.pl (Website filled with bugs))](#5-skleptestpl-website-filled-with-bugs)
-   - [Mereinda (Application to learn Spanish developed)](#6-merienda-application-to-learn-spanish-developed)
-   - [Pet project developing during 7th edition of DareiT mentoring (Application for pet's owner)](#7-pet-project-developing-during-7th-edition-of-dareit-mentoring-application-for-pets-owner)
+   - [Mereinda (Application to learn Spanish)](#6-merienda-application-to-learn-spanish)
+   - [Pet project developed during 7th edition of DareiT mentoring (Application for pet's owner)](#7-pet-project-developed-during-7th-edition-of-dareit-mentoring-application-for-pets-owner)
    - [Challenge created by GOIT](#8-challenge-created-by-goit)
    - [Agile cards; Surveys for Jira](#9-agile-cards-surveys-for-jira)
    - [JAI Autocomplete with AI for Jira](#10-jai-autocomplete-with-ai-for-jira)
@@ -80,7 +80,7 @@ I’ll be conducting functional, usability, accessibility, and cross-browser tes
    - **Tools**: Google Docs
    - **Project link**: https://docs.google.com/document/d/1N2CYlyk4mPULLNRMQu_fItJhGC-v16EnkAxoAtzWCJY/edit?usp=sharing
  
- ### 7. **Pet project developing during 7th edition of DareiT mentoring (Application for pet's owner)**
+ ### 7. **Pet project developed during 7th edition of DareiT mentoring (Application for pet's owner)**
  - **Types of tests**: IN PROCESS 
    - **Tools**: Google Docs
    - **Project link**: IN PROCESS
