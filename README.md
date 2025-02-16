@@ -19,7 +19,8 @@ With a strong foundation in recruitment, my transition to software testing is fo
 2. [My Skills](#my-skills)
 3. [Tools and Technologies](#tools-and-technologies)
 4. [Certificates](#certificates)
-5. [Contact](#contact)
+5. [Interesting things that have happened recently](#interesting-things-that-have-happened-recently)
+6. [Contact](#contact)
 
 ## Test Projects
 
